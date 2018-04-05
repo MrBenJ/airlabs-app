@@ -1,0 +1,16 @@
+export const GET_VIDEOS = 'GET_VIDEOS_ASYNC';
+export const GET_VIDEOS_OK = 'GET_VIDEOS_OK';
+export const GET_VIDEOS_FAIL = 'GET_VIDEOS_FAIL';
+
+export const GET_TOKEN = 'GET_TOKEN_ASYNC';
+export const GET_TOKEN_OK = 'GET_TOKEN_OK';
+export const GET_TOKEN_FAIL = 'GET_TOKEN_FAIL';
+
+export const ADD_CHANNEL = 'ADD_CHANNEL_ASYNC';
+export const ADD_CHANNEL_OK = 'ADD_CHANNEL_OK';
+export const ADD_CHANNEL_FAIL = 'ADD_CHANNEL_FAIL';
+
+export const REMOVE_CHANNEL = 'REMOVE_CHANNEL_ASYNC';
+export const REMOVE_CHANNEL_OK = 'REMOVE_CHANNEL_OK';
+export const REMOVE_CHANNEL_FAIL = 'REMOVE_CHANNEL_FAIL';
+
